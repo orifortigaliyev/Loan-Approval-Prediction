@@ -6,7 +6,7 @@ Ushbu loyiha kredit olish arizalarini tasdiqlash yoki rad etishni bashorat qilis
     
 Ushbu dataset Kaggle platformasidan olingan.  
 Kredit oluvchilar haqida turli ma’lumotlarni o‘z ichiga oladi (daromad, ish turi, qarz tarixi va h.k.).  
-Toza va tayyor ma’lumotlar loan_dataset.csv faylida saqlangan.  
+Toza va tayyor ma’lumotlar loan_dataset.csv faylida saqlangan.      
 🛠 Foydalanilgan texnologiyalar  
   
 Dasturlash tili: Python  
