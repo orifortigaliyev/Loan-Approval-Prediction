@@ -1,9 +1,9 @@
-Kredit Mavqeyini Bashorat Qilish (Loan Status Prediction)  
+Kredit Mavqeyini Bashorat Qilish (Loan Status Prediction)    
 📌 Loyiha haqida  
-Ushbu loyiha kredit olish arizalarini tasdiqlash yoki rad etishni bashorat qilish uchun mashinani o‘rganish modelidan foydalanadi. Model SVM (Support Vector Machine) algoritmiga asoslangan bo‘lib, u kredit olish bo‘yicha qaror qabul qilish jarayonini avtomatlashtirishga yordam beradi.  
-  
+Ushbu loyiha kredit olish arizalarini tasdiqlash yoki rad etishni bashorat qilish uchun mashinani o‘rganish modelidan foydalanadi.   Model SVM (Support Vector Machine) algoritmiga asoslangan bo‘lib, u kredit olish bo‘yicha qaror qabul qilish jarayonini avtomatlashtirishga yordam beradi.  
+    
 📊 Ma’lumotlar to‘plami  
-  
+    
 Ushbu dataset Kaggle platformasidan olingan.  
 Kredit oluvchilar haqida turli ma’lumotlarni o‘z ichiga oladi (daromad, ish turi, qarz tarixi va h.k.).  
 Toza va tayyor ma’lumotlar loan_dataset.csv faylida saqlangan.  
