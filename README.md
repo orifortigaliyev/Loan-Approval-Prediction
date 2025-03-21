@@ -1,4 +1,4 @@
-Kredit Mavqeyini Bashorat Qilish (Loan Status Prediction)    
+Kredit berishni bashorat qilish (Loan Approval Prediction)    
 📌 Loyiha haqida  
 Ushbu loyiha kredit olish arizalarini tasdiqlash yoki rad etishni bashorat qilish uchun mashinani o‘rganish modelidan foydalanadi.   Model SVM (Support Vector Machine) algoritmiga asoslangan bo‘lib, u kredit olish bo‘yicha qaror qabul qilish jarayonini avtomatlashtirishga yordam beradi.  
     
