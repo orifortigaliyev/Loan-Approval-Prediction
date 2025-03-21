@@ -14,7 +14,7 @@ Dasturlash tili: Python
 Ma’lumotlarni tahlil qilish: Pandas, NumPy  
 Vizualizatsiya: Matplotlib, Seaborn  
 Mashinalarni o‘rganish: Scikit-learn (SVM modeli)  
-Ma’lumotlar bazasi: PostgreSQL  
+    
 📈 Model yaratish bosqichlari  
   
 Ma’lumotlarni tayyorlash – Ma’lumotlar tozalanib, kerakli o‘zgaruvchilarga ajratildi.  
@@ -22,6 +22,7 @@ Kategoriya ustunlarini kodlash – Object tipidagi ustunlar raqamli qiymatlarga 
 Ma’lumotlarni taqsimlash – train_test_split() orqali modelni o‘qitish va sinash uchun ajratildi.  
 Modelni o‘qitish – SVM (linear kernel) yordamida model yaratildi va o‘qitildi.  
 Modelni baholash – Trening va test ma’lumotlari uchun aniqlik baholandi.  
+    
 🎯 Natijalar   
 
 Trening aniqligi: ~79%  
